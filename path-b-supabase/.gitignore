@@ -1,0 +1,13 @@
+# 비밀값
+.env
+
+# 로컬 DB 파일 (내 데이터라서 깃에 올리지 않음)
+todo.db
+todo.db-journal
+
+# 설치된 라이브러리 (npm install로 다시 받을 수 있음)
+node_modules/
+
+# 운영체제가 만드는 파일
+.DS_Store
+Thumbs.db

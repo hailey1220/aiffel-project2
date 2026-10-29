@@ -1,0 +1,13 @@
+# 비밀값 — 절대 올리지 않기
+.env
+
+# 내 컴퓨터의 데이터
+todo.db
+todo.db-journal
+
+# 설치된 라이브러리 (npm install로 다시 받음)
+node_modules/
+
+# 운영체제가 만드는 파일
+.DS_Store
+Thumbs.db
